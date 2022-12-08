@@ -52,7 +52,7 @@
   "devDependencies": {
     "jsdom": "^20.0.0",
     "mapbox-gl": "^2.9.2",
-    "rollup": "^2.77.2",
+    "rollup": "^3.7.0",
     "rollup-plugin-import-css": "^3.0.3",
     "rollup-plugin-uglify": "^6.0.4",
     "rollup-preset-solid": "^1.4.0",
